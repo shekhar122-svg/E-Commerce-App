@@ -1,4 +1,4 @@
-// Save this as BankingApp.java
+
 package BankingManagement;
 
 import java.sql.Connection;
